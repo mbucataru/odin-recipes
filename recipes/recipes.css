@@ -1,0 +1,41 @@
+body
+{
+    background-color: mistyrose;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title 
+{
+    text-align: center;
+    color: darksalmon;
+}
+
+.food-picture
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.description.header
+{
+    text-align: center;
+}
+
+
+/* .description.paragraph
+{
+  
+}
+
+.list
+{
+
+}
+
+.list.title
+{
+
+}
+*/
+

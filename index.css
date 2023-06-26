@@ -1,10 +1,12 @@
 body
 {
-    background-color: darkgray;
+    background-color: mistyrose;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 .title
 {
-    color: bisque;
+    color: darksalmon;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     font-weight: bolder;
