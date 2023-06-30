@@ -13,29 +13,16 @@ body
 .food-picture
 {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 20px auto;
 }
 
 .description.header
 {
     text-align: center;
 }
-
-
-/* .description.paragraph
-{
-  
-}
-
 .list
 {
-
+    text-align: left;
 }
 
-.list.title
-{
-
-}
-*/
 
